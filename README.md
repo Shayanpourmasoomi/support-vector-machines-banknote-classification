@@ -9,7 +9,7 @@ The notebook combines **mathematical formulation**, **optimization-based learnin
 > Nevertheless, all **mathematical formulations, code structure, variable names, figures, and results** follow standard machine learning conventions and are fully understandable for non-Persian readers.
 
 ## File
-- `practical1_svm_403201483.ipynb` — main notebook
+- `support-vector-machines-banknote-classification.ipynb` — main notebook
 
 ## Overview
 Support Vector Machines are supervised learning models that perform classification by solving a constrained optimization problem.  
